@@ -6,7 +6,7 @@ SIDE NOTE: I unfortunately did not have enough time so comment on the results, h
 
 
 ________________
-README of original:
+# README of original repo (adapted):
 This repo shows how to train neural language models using [Pytorch example code](https://github.com/pytorch/examples/tree/master/word_language_model).
 
 # Requirements
@@ -18,12 +18,6 @@ This repo shows how to train neural language models using [Pytorch example code]
     `pip install virtualenv`
 
 # Steps
-
-Clone this repository in the desired place:
-
-    git clone https://github.com/emmavdbold/mt-exercise-3
-    cd mt-exercise-3
-
 Create a new virtualenv that uses Python 3. Please make sure to run this command outside of any virtual Python environment:
 
     ./scripts/make_virtualenv.sh
@@ -35,6 +29,7 @@ Download and install required software:
     ./scripts/install_packages.sh
 
 Download and preprocess data:
+    [Download](https://www.english-corpora.org/iweb/)
 
     ./scripts/download_data.sh
 
