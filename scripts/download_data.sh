@@ -11,7 +11,7 @@ tools=$base/tools
 
 # link default training data for easier access
 
-mkdir -p $data/wikitext-2
+mkdir -p $dataset/wikitext-2
 
 for corpus in train valid test; do
     absolute_path=$(realpath $tools/pytorch-examples/word_language_model/data/wikitext-2/$corpus.txt)
@@ -20,12 +20,13 @@ done
 
 # download a different interesting data set!
 
-mkdir -p $data/grimm
+mkdir -p $dataset/iWeb
 
-mkdir -p $data/grimm/raw
+mkdir -p $dataset/iWeb/test1
 
-wget https://www.gutenberg.org/files/52521/52521-0.txt
-mv 52521-0.txt $data/grimm/raw/tales.txt
+# download on https://www.corpusdata.org/iweb_samples.asp (e.g. download samples 0-5)
+mv text*.zip $dataset/iWeb/test1
+unzip dataset/iWeb/test1/text*.zip -d dataset/iWeb/test1
 
 # preprocess slightly
 
