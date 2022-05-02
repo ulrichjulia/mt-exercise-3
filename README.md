@@ -47,7 +47,7 @@ ________________
 # Changes 
 
 Different dataset: 
-- Here, a portion of the freely available samples of the [iWeb](https://www.english-corpora.org/iweb/) corpus are used.
+- Here, a portion of the freely available samples of the [iWeb](https://www.corpusdata.org/iweb_samples.asp) corpus are used.
 - The prepocessing happened the same way as described in the original.
 
 Command line arguments:
@@ -92,7 +92,7 @@ ________________
 # Changes 
 
 Different dataset: 
-- Here, a portion of the freely available samples of the [iWeb](https://www.english-corpora.org/iweb/) corpus are used.
+- Here, a portion of the freely available samples of the [iWeb](https://www.corpusdata.org/iweb_samples.asp) corpus are used.
 - The prepocessing happened the same way as described in the original.
 
 Command line arguments:
