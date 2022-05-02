@@ -96,7 +96,8 @@ Different dataset:
 - The prepocessing happened the same way as described in the original.
 
 Command line arguments:
-- To the `train.sh` and the `generate.sh# scripts a option has been added to indicate on the command line what droput should be used.
+- To the `train.sh` and the `generate.sh` scripts a option has been added to indicate on the command line what droput should be used.
+- Furthermore, the `generate.sh` now also takes command line arguments on what level of creativity should be used and what the file should be stored as.
 
 # Results: Training
 
@@ -138,3 +139,8 @@ Command line arguments:
 # Visualisation Validation
 ![The charts of the training ppls.](https://github.com/ulrichjulia/mt-exercise-3/blob/9291bca4724089f4cd0b9871636ab0a46df30170/results_valid.png?raw=true)
 
+# Discussion
+As can be seen in both charts, the perplexity rapidly decreases after the first epoch. For some of the settings, it stagnates after a while [e.g., for no dropout (both at training and validation step) and for all settings at the validation step].
+Over all, the 0.6 dropout model performed best, so this was used to generate sample texts. 
+I tried out several settings of the temperature parameter, and found that the best temperature is around 15.0–19.0. However, even these texts (`mediumtemp.txt`, `verymidhightemp.txt`) are not as intelligble as hoped. 
+My assumption is that the data simply weren't sufficient or not varied enough. While I would have loved to try out different corpora/datasets, I simply did not have the time to do so, having lots of stuff going on in other courses as well. 
