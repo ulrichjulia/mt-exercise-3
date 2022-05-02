@@ -1,0 +1,400 @@
+<unk> it will be something different and interesting .
+&lt; p &gt; I doubt you will find this in cell phones .
+That <unk> is full of optics and <unk> .
+There is no room for any phone in there .
+<unk> , it probably needs a serious amount of energy for the image <unk> .
+&lt; p &gt; It is not surprising that the low light performance is <unk> to a DSLR , because <unk> is a function of the actual amount of light captured , which is <unk> to sensor ( and lens ) area .
+Even 16 1 / <unk> &quot; sensors added together do n &apos;t come close to a single APS-C sensor , never mind a <unk> frame .
+&lt; p &gt; <unk> power , on the other hand is ( at least in theory ) linked to the effective aperture , so here the @ @ @ @ @ @ @ @ @ @ to match DSLRs with lenses comparable in <unk> to the size of this camera .
+That is where we can expect future improvements .
+&lt; p &gt; As for <unk> comparison with a DSLR and <unk> , the former would n &apos;t fit in a pocket , and the latter only has a <unk> zoom and <unk> <unk> vs <unk> for this camera .
+&lt; p &gt; <unk> the <unk> of this camera probably ca n &apos;t be achieved on the <unk> of the image where probably only one lens would be used .
+So it could be only <unk> and not 52 in some cases .
+I &apos; d say it will be 52 in best case scenario .
+At least on the RX100 you know you &apos; re always getting <unk> .
+&lt; p &gt; And the RX100 as a <unk> zoom .
+This has a <unk> zoom .
+But this is also a much bigger camera ... and if it will only be <unk> on the <unk> , how much different would it be from cropping a <unk> photo down to <unk> ?
+; ) &lt; p &gt; &amp; gt ; There is the difference that multiple sensors can be used at @ @ @ @ @ @ @ @ @ @ sensor can .
+&lt; p &gt; Please describe in detail how a collection of sensors running at different ISO numbers can collect more photons than a single large sensor running at the highest ISO number of that group .
+&lt; p &gt; As for the other advantages you list , yes , multiple sensors give you all that , but none of them are related to actually <unk> more light than what the sum total of the effective <unk> areas let &apos; s you .
+&lt; p &gt; This is a matter of <unk> , not engineering .
+If you know of a way around this problem , I guarantee you that professional <unk> around the world will be <unk> at your feet to learn how to get the light collection power of 10 <unk> <unk> with a collection of much smaller <unk> .
+( Yes , <unk> pack of <unk> have <unk> for decades , but they &apos; re for improving <unk> resolution , not for <unk> more light . )
+&lt; p &gt; And then <unk> the multiple photos to eliminate the noise ( <unk> and shot noise ) and create better quality than single larger sensor can do @ @ @ @ @ @ @ @ @ @ , to come around problems <unk> single sensor <unk> .
+&lt; p &gt; For years these have been done even on the world best <unk> .
+You take hundreds or thousands of frames and then you <unk> them together .
+That is same thing as hundreds or thousands of sensors <unk> same <unk> and then all frames used together to build one .
+&lt; p &gt; That is as well matter of engineering , to overcome the problems of single frame exposure .
+&lt; p &gt; It <unk> a practical problem that the images are different .
+You need to do some <unk> of the less exposed image and maybe fill in some small areas .
+This is where the &quot; <unk> &quot; part of the solution comes in .
+&lt; p &gt; <unk> lenses , different exposures , different DOF maybe ...
+I see too many <unk> .
+Not saying it would never work , and I &apos; d love to try one of this cameras , just that it would n &apos;t be as reliable as a normal <unk> .
+&lt; p &gt; No need .
+As example you can see how the Photo <unk> software allowed you to <unk> @ @ @ @ @ @ @ @ @ @ someone says that 16 cameras <unk> n &apos;t being used same time , only a 10 at the time or so .
+Like <unk> <unk> <unk> and <unk> for <unk> or so .
+&lt; p &gt; This is the thing , 16 cameras <unk> n &apos;t all just same ones , they are special ones , for special purposes and to <unk> each other <unk> and offer data that can be <unk> and combined with software .
+This is what allows shallow DOF photos , HDR etc in single exposure .
+As the multiple cameras are all used differently .
+&lt; p &gt; It is very brilliant idea to offer such to consumers , but it is heavily dependent from the developers capabilities to offer the features for it .
+<unk> they will open source all if their company is going under ... As that idea is just great .
+&lt; p &gt; @ <unk> whatever you &apos; re shooting does not suffer from motion blur at 1 / <unk> , you might as well use all of your lenses at 1 / <unk> and get 3 1 / 3 stops better light collection .
+If it does move , the output from 1 / <unk> lenses are @ @ @ @ @ @ @ @ @ @ that the 1 / <unk> lenses capture .
+( Maybe some of the background would stay put and allow for correction , but is it really so nice to have a photo with a <unk> subject matter against a <unk> <unk> background ? )
+&lt; p &gt; I see three challenges that it &apos; ll be interesting to see how they overcome : &lt; p &gt; The first is cost ; the extra 15 camera <unk> are n &apos;t free .
+&lt; p &gt; The second is battery life , 16 camera <unk> eat <unk> more power than 1 , and <unk> that image data into a final image is likely to be hard on processor usage ( and thus power ) too .
+&lt; p &gt; <unk> is performance ; processing those 16 images into one final image is going to take time ; due to the <unk> process I expect it &apos; s going to take more than <unk> the time .
+Yes , you can <unk> <unk> , and use one single image as a <unk> <unk> you develop the image in the background , but you &apos; ll still need a more powerful processor etc ( which again drives up @ @ @ @ @ @ @ @ @ @ agree with your points , just one minor correction , I think the way I read it a while ago is that only up to four cameras can fire at once .
+This is probably why they mention 52 <unk> , which <unk> 13 x 4 .
+I do n &apos;t know why 16 cameras , one guess is 4 sets of cameras for four different focal length , for example four cameras with different <unk> <unk> <unk> for a select focal length or zoom range .
+I might be wrong , but it makes sense to me .
+Still does n &apos;t <unk> your points .
+<unk> 4 x 13 <unk> takes a lot of resources too .
+&lt; p &gt; <unk> , if <unk> <unk> ( <unk> and <unk> ) said the biggest <unk> on batteries is the LCD , sorry but this is absolutely one <unk> <unk> excuse !
+&lt; p &gt; At the premium price of this camera and with this all it &apos; s <unk> <unk> , then have it be <unk> with an <unk> display , which will provide <unk> <unk> image quality than of a <unk> ancient technology LCD , @ @ @ @ @ @ @ @ @ @ also will <unk> a fraction of the battery <unk> !
+&lt; p &gt; This camera is like driving a <unk> with <unk> <unk> , and then <unk> you can not drive too far with it .
+&lt; p &gt; Good point .
+That is what kept , <unk> <unk> out of the game for a few months .
+But it may have been an excuse to get into the <unk> competition as a 2017 model , so as not to compete with the new <unk> , as a 2016 model .
+To note : <unk> is in the digital back and camera business for about 10 years .
+This is <unk> first digital <unk> .
+I still have their <unk> / <unk> , 120 / <unk> &quot; Big Leica &quot; , film camera .
+&lt; p &gt; @ zoom , let &apos; s see , who do I believe , the <unk> ( who by the way is the guy who <unk> the <unk> tech in your cell phone ) , or a random guy on the internet ?
+&lt; p &gt; I &apos; ll go with the <unk> here .
+If he says running the screen takes more battery than <unk> off 10 camera @ @ @ @ @ @ @ @ @ @ way , I do n &apos;t know if the screen is <unk> or LCD or a <unk> <unk> <unk> ( <unk> here in case you do n &apos;t get it ) ...
+I used &quot; LCD &quot; as a <unk> term for the screen .
+sorry if I am wrong on the actual tech .
+&lt; p &gt; @ <unk> : Thank you for the background ; I found that <unk> article particularly interesting !
+So it uses 10 of the 16 cameras at once , and a custom <unk> to <unk> the information to a <unk> <unk> <unk> .
+&lt; p &gt; According to the <unk> article the full resolution images are n &apos;t being processed <unk> though , they &apos; re going to be processed on your computer when you get home ; you only get a <unk> <unk> until then .
+I guess that reduces the processing burden on the <unk> ; ) <unk> they &apos; ll be able to fix that on the production versions !
+&lt; p &gt; The price still looks to a be a real problem though , if the price of <unk> is correct , that &apos; s a lot more than I &apos; d be @ @ @ @ @ @ @ @ @ @ who bought a <unk> <unk> <unk> ...
+<unk> if the cameras are as cheap as <unk> suggests .
+&lt; p &gt; This looks like a repeat of the <unk> <unk> , <unk> with 16 smartphone cameras <unk> into something that looks like a <unk> <unk> <unk> .
+It &apos; s <unk> , <unk> and does n &apos;t have a chance as a <unk> product .
+Maybe they can license their software ?
+<unk> <unk> are always difficult .
+&lt; p &gt; I think this has better chance than <unk> .
+A different kind of camera !
+You ca n &apos;t compare it to anything else on the market , you ca n &apos;t put a DSLR or mirrorless to your <unk> pocket , can you ?
+So the only problem is the price , ( $ 100 for each lens ) for me it has to be under <unk> and it will not happen soon ... &lt; p &gt; No matter how many sensors and lenses you <unk> in a small box , it is still a <unk> solution with all related <unk> to image quality .
+<unk> can <unk> some of the problems but not all of them and <unk> @ @ @ @ @ @ @ @ @ @ battery life and slow operation .
+The fact that they already delayed the release by two years also tells that the results they are getting are not up to even their own expectations .
+Last time we heard they only managed to secure $ <unk> of private funding , this is tiny for anything <unk> in imaging solutions other than <unk> software tricks .
+So while I like their thinking , I do n &apos;t expect any <unk> here .
+<unk> as well just end up being another <unk> device for <unk> and <unk> .
+&lt; p &gt; They raised the $ 65 <unk> .
+because investors are just people with money who need to look good and have no idea about anything else but that ... Control has nothing to do with producing a product .
+Notice that , <unk> <unk> , put up his own money ( From <unk> ) because he knew about the mind of the &quot; normal &quot; investor .
+The guys at , Light , may have been &quot; <unk> by the Money &quot; and had to keep <unk> until they could get their <unk> , for getting the @ @ @ @ @ @ @ @ @ @ &apos; s see what happens , by <unk> .
+&lt; p &gt; They &apos; ve got to be <unk> concept and all but my questions as a potential consumer : <unk> pay $ <unk> for a product from a company without prior experience in the camera market ?
+<unk> are the chances something can go wrong with this device vs a tried and tested DSLR or <unk> ?
+<unk> 16 to 1 chances I &apos; d <unk> <unk> about image quality ?
+Will these tiny plastic lenses really <unk> images produced with high quality optics and leading <unk> or <unk> sensors ?
+<unk> they do n &apos;t <unk> to show a full size <unk> gallery for us to see ?
+If the product is so amazing as claimed , would n &apos;t it be the first thing to show ?
+<unk> if I want to use an <unk> wide angle , a <unk> or extreme <unk> ?
+Should I go and spend more money on another system camera because this device wo n &apos;t accept the lenses I want or need ?
+There will people interested , sure .
+<unk> <unk> with money to <unk> .
+But at $ <unk> @ @ @ @ @ @ @ @ @ @ .
+<unk> , not even at half that price .
+&lt; p &gt; Hi <unk> , you are wrong .
+This is hardly an innovation .
+At <unk> weight and <unk> length <unk> <unk> is almost as heavy or <unk> as a small DSLR or mirrorless .
+I would pick a camera like Fuji <unk> , Nikon <unk> A or Canon M with the <unk> over this any day .
+Better image quality and less money .
+I do n &apos;t need to be an <unk> .
+I am a customer .
+: ) &lt; p &gt; A bit <unk> but do like the concept .
+I &apos; m definitely in need of a new camera ( <unk> at the moment ; <unk> ) .
+<unk> , I &apos; m a cheap <unk> so I &apos; ll see if it ever can one day get below $ <unk> .
+Now , if they add Android and make it a smart phone , well , then maybe .
+<unk> &lt; p &gt; Yes I did , and that &apos; s why I &apos; m wondering whether I should click that button or not ...
+<unk> it would be nothing more than a <unk> for @ @ @ @ @ @ @ @ @ @ and in seeing what it can put out in comparison to my other gear .
+I do n &apos;t see myself carrying it around and using it everyday , especially since I already have something for that ( <unk> ) .
+I placed my deposit a year and a half ago at a time where $ <unk> for the fun of it was no issue , but things have changed and I &apos; d rather put that towards something else .
+<unk> since the deposit is <unk> get it anyway and just sell it after trying , but I &apos; m not sure it will be easy to find a buyer .
+&lt; p &gt; What about Light adding a smart phone to their <unk> and keeping the price under $ 1,000 .
+Then , they might have something ...
+But the big mistake is to think that all of the wonderful <unk> and <unk> really want / need anything more than <unk> <unk> <unk> .
+They do n &apos;t print and the latest phones can actually print more than large enough .
+This baby is out a few years too late , and it &apos; s not out yet ... @ @ @ @ @ @ @ @ @ @ Number &quot; , for a few things .
+Back in the <unk> <unk> a <unk> system concept ( <unk> your own . )
+with 16 small speakers , based on the same concept as the 16 <unk> <unk> motor .
+The idea being , based on , &quot; <unk> <unk> <unk> &quot; , which means that the <unk> as well as speakers , working together , can produce power / sound better than the larger <unk> <unk> / speakers .
+&lt; p &gt; Great <unk> but <unk> it looks <unk> <unk> .
+The lens array looks <unk> .
+<unk> of <unk> .
+It &apos; s like some <unk> with a lot of eyes .
+It &apos; s good to think out of the box , but look at <unk> .
+Their <unk> <unk> did not sell well .
+&lt; p &gt; I do n &apos;t see how you would do this different in the <unk> it has now , so I do n &apos;t see how it has failed &apos; <unk> &apos; .
+Have you seen the picture of the <unk> ?
+The camera <unk> have a &apos; <unk> &apos; designs , or <unk> optics , to have the focal <unk> and fit @ @ @ @ @ @ @ @ @ @ board &apos; array of lenses , the thing would be much larger .
+And that would be a possible fail .
+&lt; p &gt; I do n &apos;t really care .
+<unk> it to the <unk> .
+But honestly , for now quite <unk> and you can immediately tell a better replacement version will come out <unk> to replace this &quot; <unk> &quot; .
+It &apos; s a new and young product I get it , I was just <unk> my personal views on the product design .
+&lt; p &gt; As for the future of photography in digital age , I doubt we even need a lens for that matter .
+; ) &lt; p &gt; So now you say that you can <unk> <unk> from some product shots / <unk> , and you already <unk> it to be a total fail .
+And with your first statement about product design you were talking about build quality rather then the looks .
+On which you were not considering what was on the inside , because you did n &apos;t care .
+But you now are absolutely sure the inside is the part that is going to fail .
+And also @ @ @ @ @ @ @ @ @ @ other then <unk> and that that was what you meant with &apos; product design &apos; .
+This is getting confusing : ( Look , I &apos; m with you that this wo n &apos;t sell millions , it &apos; s not the replacement for any DSLR / <unk> , but your first statement was just silly .
+&lt; p &gt; 1 .
+Product design : <unk> not <unk> .
+It &apos; s a traditional product - maybe some clear ideas but based on <unk> <unk> 3 .
+And because of 2 it can not do the day to day task for professional <unk> am entitled to my views and you to yours .
+Do n &apos;t have to force me to like it .
+Are we clear ?
+&lt; p &gt; <unk> , you made a silly <unk> about &apos; product design &apos; without telling us that you only talked about the outside .
+I told you that it could hardly look different because of the inside .
+Then you said you did n &apos;t care about the inside .
+Then all of a <unk> the inside was more important because it ca n &apos;t do a the job for a professional ( @ @ @ @ @ @ @ @ @ @ n &apos;t say it was for pro &apos; s , nobody did ) and now were back to it does n &apos;t look good enough to sell , but also the inside is n &apos;t good <unk> , still to <unk> of course you are entitled to your views .
+But do n &apos;t talk about &apos; product design &apos; which is a very broad term and for a majority of people includes the <unk> now the 1st <unk> was sold out .
+100 % sale .
+Not a <unk> fail .
+It was never aimed at professionals .
+You are not an early <unk> , fair enough .
+I was n &apos;t <unk> you a view , I <unk> that it looked like it did because of a <unk> that ?
+&lt; p &gt; <unk> were back with the looks .
+Yes it looks different and probably is n &apos;t going to sell well <unk> on looks alone at this price .
+That &apos; s why the inside IS very <unk> looks like a box that is hit by many <unk> because it has 16 lens <unk> .
+The <unk> are <unk> like that because of how it is build @ @ @ @ @ @ @ @ @ @ the <unk> camera optics .
+There is no way to have 16 lenses and camera <unk> and not have these 16 <unk> .
+So this is even a more silly comment by <unk> last line indicates that you have no knowledge of product design at all , so why use that word ?
+I never did say it was pretty , I never <unk> it as beautiful .
+Again , I just said it could n &apos;t look any different because of what is <unk> now a 16 <unk> camera is looking bad because it has <unk> 16 cameras in it ?
+That &apos; s just about as silly as it <unk> &apos; re <unk> of new things and changes , fair enough .
+&lt; p &gt; Yeah <unk> was a new thing .
+Sometimes you do n &apos;t even need to play with it to know it <unk> .
+You called that design pretty ?
+Really ?
+It &apos; s looks like a mess to me .
+One could be called &quot; interesting &quot; at best .
+Now you are saying it a pretty because it has 16 cheap lenses so it &apos; s the best design @ @ @ @ @ @ @ @ @ @ and <unk> the camera .
+This one looks <unk> and photo looks <unk> ... as a photographer I want better than that .
+<unk> ?
+I have the beautiful and functional iPhone .
+&lt; p &gt; Obviously you ca n &apos;t read .
+That is very clear to me because you write things I did n &apos;t .
+So again and again you make silly <unk> did n &apos;t say it &apos; s pretty , you make that up to <unk> your silly <unk> say * <unk> * for the <unk> time , it ca n &apos;t hardly look different with 16 <unk> optics camera units <unk> .
+The <unk> which as a result could n &apos;t look much different if the iPhone <unk> had to make <unk> now you <unk> into comparing a single <unk> optics <unk> <unk> with a 16 <unk> optics camera unit for size ?
+This is <unk> towards * <unk> * &lt; p &gt; <unk> n &apos;t improvements be made to this camera ?
+Have you tried 26 , or maybe 36 or a camera full of &quot; eyes &quot; ?
+It may look better ?
+think outside the box man , if 16 made it look <unk> why not @ @ @ @ @ @ @ @ @ @ <unk> to make up the poor <unk> of lenses .
+I just <unk> na say one more time , the current design is very bad .
+&lt; p &gt; Again , you come with something that was n &apos;t said before , another proof of you not able to read .
+Yes this is a first version and if and when there &apos; ll be a 2nd , it will be better .
+But if that also has 16 <unk> optics camera units , it will have 16 <unk> to look out of into the world .
+In all you <unk> <unk> about &apos; product design &apos; you ca n &apos;t change that because it &apos; s form after <unk> , I did n &apos;t say it &apos; s nice looking , you keep coming with that <unk> &apos; fact &apos; , stop doing that , it &apos; s very <unk> now you come up with the design is <unk> design ?
+The looks or the way there have to be 16 <unk> because of 16 <unk> optics camera <unk> have to have a way to be <unk> into the <unk> possible box and have to have a way @ @ @ @ @ @ @ @ @ @ to <unk> out into the <unk> you realize that it &apos; s 16 camera &apos; s in one box do I wonder , because again , all you write is silly <unk> * <unk> * ?
+? ?
+? ?
+&lt; p &gt; Just change the <unk> .
+Again again again ... you keep <unk> yourself with same comments .
+I <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> to have common sense : <unk> <unk> camera is so <unk> <unk> !
+If one truly wanted ( or capable ) to <unk> something , make it at least NOT <unk> .
+<unk> on !
+Be critical to yourself otherwise how can great products be made ?
+Go read others comments .
+If you ca n &apos;t accept the reality that this is a total failure from a design point of view , then fine .
+One day a more <unk> product will come out and perhaps people may remember this current 16 <unk> camera as by its <unk> look .
+&lt; p &gt; &apos; Just change the inside <unk> ?
+You got to F <unk> <unk> .
+That is not even being silly <unk> your initial comment was n &apos;t about product @ @ @ @ @ @ @ @ @ @ that it was <unk> .
+You only wanted to show of your total <unk> to see beyond the outside and even are n &apos;t capable of &apos; thinking inside the box &apos; .
+You have not even the basic of understanding how a product is designed from the ground up .
+A 16 <unk> optics camera module product has to have <unk> which have to fit a minimal space .
+And that has a result on how the outside will look .
+Total basic principal of &apos; <unk> <unk> &apos; .
+There is only one thing <unk> , your ability to think outside ( and inside ) the box .
+<unk> you only said it was <unk> , not why .
+Do n &apos;t you like the color ?
+The <unk> of the grip ?
+I really really do n &apos;t get it what you mean .
+It looks different , it is n &apos;t pretty , I get that , but &apos; <unk> fail &apos; or &apos; <unk> &apos; ... that &apos; s just a 12 <unk> / o being silly .
+&lt; p &gt; And you do n &apos;t even realize why .... <unk> ...
+I do n &apos;t @ @ @ @ @ @ @ @ @ @ or just 1 ... that is <unk> not my problem .
+That &apos; s for <unk> .
+I am a photographer so I just <unk> na take nice pictures .
+And the camera used need to look good as well .
+Simple as that .
+<unk> this discussion keeps on and on and I wo n &apos;t reply any more .
+&lt; p &gt; So you do n &apos;t have one single reason why you call it &apos; a <unk> fail &apos; in &apos; product design &apos; or &apos; looking <unk> &apos; ?
+And still do n &apos;t see that the outside is ( in a major part ) a result of the inside ?
+Yeah you might be a photographer .
+As an <unk> you would fail <unk> and <unk> .
+&lt; p &gt; This is the future of ( mainstream ) photography , as it allows for compact designs which can be <unk> to fit into <unk> , most photos worldwide are already taken using <unk> - despite all their limitations with regards to IQ , DR , <unk> <unk> imagine a <unk> in IQ by factor n ( will depend on number of sensors and @ @ @ @ @ @ @ @ @ @ the <unk> to take pictures with those tiny devices that you <unk> carry with you .
+&lt; p &gt; &quot; We do n &apos;t know who <unk> first , us or them , but we know that it was us that <unk> the sky .
+At the time , they were dependent on solar power and it was <unk> that they would be unable to survive without an energy source as <unk> as the sun . &quot;
+&lt; p &gt; I have made a design for a three lens camera , 28 , 50 , 75 , but this is truly crazy .
+Although , I can <unk> great potential .
+What is required in this , though , is the superior lens design , adequate sensors and image processor .
+Otherwise , it is not worth it ; one great zoom can beat this if the those three lack in any department .
+&lt; p &gt; If the practical resolution and noise is anywhere above 50 % close to that of an average <unk> DSLR and the price is around the same , it &apos; ll be worth it .
+A regular zoom would only beat it ( @ @ @ @ @ @ @ @ @ @ at least 1 &quot; sensor and the zoom lens were also <unk> .
+&lt; p &gt; I &apos; m really <unk> for something like this , though the <unk> imaging camera I want may not come from Light .
+&lt; p &gt; I &apos; ve been <unk> disappointed at the established makers not <unk> on the <unk> that smartphone imaging has opened up for image processing .
+They &apos; re even <unk> their feet at putting in fast enough <unk> &apos; s to make sure the body does the basics without any <unk> - so expecting any of their stuff to process a <unk> image on the fly is <unk> .
+&lt; p &gt; I hope Light either <unk> things up by doing this really well , or their stuff is bought and developed by some Chinese <unk> who &apos; ll use it to <unk> over the Japanese makers who &apos; re <unk> <unk> along on old <unk> about imaging while all the while <unk> about <unk> market share .
+&lt; p &gt; For my <unk> camera fix , I have Leica .
+Everything else needs a <unk> to take pro photography beyond smartphones not simply by the &apos; more glass , bigger sensor &apos; approach .
+@ qwx168862 @ qwx168861 @ qwx168863 @ qwx168860 @ @ <unk> @ <unk> / &lt; h &gt; <unk> of <unk> &lt; p &gt; Has anyone bought from them ?
+I am going to be in London this summer and based on their <unk> site , they appear to be awesome for people who have Nikon equipment .
+@ qwx168859 &lt; p &gt; <unk> &lt; p &gt; I have a Nikon film camera I &apos; m thinking of selling and some older lenses , and so thought of <unk> of <unk> , to possibly trade some items for a newer camera body .
+&lt; p &gt; Just <unk> across a website <unk> claiming that <unk> <unk> is a top level <unk> and the store in London is <unk> to be owned by the <unk> of <unk> .
+And &quot; Nikon <unk> <unk> &quot; too .
+&lt; p &gt; &quot; <unk> <unk> and his <unk> front : <unk> of <unk> is so obviously a <unk> financial <unk> .
+This small shop in expensive real estate selling one brand with about 12 staff runs at a profit .
+Yeah , right . &quot;
+@ @ <unk> @ <unk> / &lt; p &gt; When Panasonic introduced the <unk> <unk> , it made the <unk> promise that it would release not one , but two firmware updates that would significantly increase the performance of the camera .
+The first was to arrive in April and the second a bit later in &apos; <unk> 2017 . &apos;
+&lt; p &gt; <unk> to its word , Panasonic has announced firmware <unk> for the GH5 , bringing 4 : 2 : 2 <unk> Full HD video capture and a series of <unk> capture options for <unk> <unk> .
+&lt; p &gt; The firmware brings 4 : 2 : 2 <unk> <unk> capture at <unk> to 1080 / <unk> resolution .
+<unk> <unk> also get <unk> 4 : 2 : 2 <unk> capture but with the larger , <unk> x <unk> shooting region <unk> at <unk> .
+The update also includes two minor <unk> .
+&lt; p &gt; <unk> resolution <unk> video capture , along with <unk> <unk> capture for 4K and <unk> <unk> capture for Full HD will follow in the summer release .
+&lt; p &gt; Panasonic is <unk> the new firmware update program <unk> for <unk> to further enhance its performance .
+The new firmware <unk> enables 4 : 2 : 2 <unk> video recording in either <unk> <unk> ( <unk> ) @ @ @ @ @ @ @ @ @ @ addition to the existing 4K video recording mode .
+&lt; p &gt; 4 : 2 : 2 <unk> <unk> <unk> ( <unk> ) / <unk> &lt; p &gt; Item &lt; p &gt; System frequency &lt; p &gt; <unk> &lt; p &gt; <unk> rate &lt; p &gt; <unk> rate &lt; p &gt; <unk> / bit &lt; p &gt; Image compression &lt; p &gt; <unk> / <unk> / <unk> / 60p &lt; p &gt; <unk> &lt; p &gt; ( <unk> ) &lt; p &gt; <unk> x 1080 &lt; p &gt; <unk> &lt; p &gt; 100 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; <unk> / <unk> / <unk> / <unk> &lt; p &gt; <unk> x 1080 &lt; p &gt; <unk> &lt; p &gt; 100 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; <unk> / <unk> / <unk> / <unk> &lt; p &gt; <unk> x 1080 &lt; p &gt; <unk> &lt; p &gt; 100 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; <unk> / <unk> / <unk> / <unk> &lt; p &gt; <unk> &lt; p &gt; ( <unk> ) &lt; p &gt; <unk> x 1080 &lt; p &gt; <unk> &lt; p &gt; 100 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; <unk> / <unk> / <unk> / <unk> &lt; p &gt; <unk> x 1080 &lt; p &gt; <unk> &lt; p &gt; 100 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; <unk> / <unk> / <unk> / <unk> &lt; p &gt; <unk> &lt; p &gt; ( <unk> ) &lt; p &gt; <unk> x 1080 &lt; p &gt; <unk> &lt; p &gt; 100 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; n + When <unk> <unk> is selected for <unk> Control <unk> , you can not select the items used for 4 : 2 : 2 / 10 bit motion pictures .
+&lt; p &gt; 4 : 2 : 2 <unk> <unk> ( 4 : 3 ) mode &lt; p &gt; Item &lt; p &gt; System @ @ @ @ @ @ @ @ @ @ <unk> / bit &lt; p &gt; Image compression &lt; p &gt; 4K / A / <unk> / <unk> &lt; p &gt; <unk> &lt; p &gt; ( <unk> ) &lt; p &gt; <unk> x <unk> &lt; p &gt; <unk> &lt; p &gt; 150 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; 4K / A / <unk> / <unk> &lt; p &gt; <unk> x <unk> &lt; p &gt; <unk> &lt; p &gt; 150 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; 4K / A / <unk> / <unk> &lt; p &gt; <unk> &lt; p &gt; ( <unk> ) &lt; p &gt; <unk> x <unk> &lt; p &gt; <unk> &lt; p &gt; 150 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; 4K / A / <unk> / <unk> &lt; p &gt; <unk> &lt; p &gt; ( <unk> ) &lt; p &gt; <unk> x <unk> &lt; p &gt; <unk> &lt; p &gt; 150 <unk> &lt; p &gt; 4 : 2 : 2 / 10 bit &lt; p &gt; Long GOP &lt; p &gt; n + <unk> ( 4 : 3 ) is available only when the camera is set to <unk> Video <unk> .
+&lt; p &gt; The firmware version <unk> also includes following firmware <unk> that reflect customer feedback : &lt; p &gt; A problem in which the exposure adjustment did not operate properly during live view <unk> under specific conditions using <unk> <unk> <unk> .
+&lt; p &gt; A problem in which <unk> appeared when recording video under high ISO @ @ @ @ @ @ @ @ @ @ charged until we ship the item .
+&lt; h &gt; Comments &lt; p &gt; Once you catch the <unk> <unk> there &apos; s no <unk> .
+One day you &apos; re happy and healthy , suddenly you do n &apos;t <unk> for days on end because you &apos; re in an <unk> <unk> war for an <unk> <unk> <unk> zoom .
+&lt; p &gt; &quot; A problem in which <unk> appeared when recording video under high ISO <unk> settings in using <unk> &quot; - While they are <unk> that for <unk> <unk> ( I do n &apos;t shoot at high <unk> , especially with <unk> L so never experienced this issue ) , I really wish they would fix the <unk> <unk> you get ( I have only noticed it in <unk> <unk> ) i with <unk> <unk> &lt; p &gt; I shoot in <unk> 4 : 2 : 2 and you get <unk> <unk> <unk> issue with <unk> with <unk> and <unk> around bright highlights in <unk> sometimes .
+I had similar issue with <unk> L on my GH4 shooting to an <unk> <unk> 2 <unk> at <unk> , so its not the <unk> on the GH5 that was causing it .
+&lt; p &gt; 4K Video is @ @ @ @ @ @ @ @ @ @ majority of <unk> need in terms of <unk> and efficiency .
+<unk> 4 : 2 : 2 is the <unk> <unk> for quality <unk> in my opinion .
+Raw is still better but its huge size makes it <unk> , a <unk> returns <unk> to <unk> for <unk> be super nice if <unk> can upgrade the <unk> firmware to record <unk> 4 : 2 : 2 as well .
+&lt; p &gt; If just going straight from camera to screen , then I would consider 4K a <unk> , but not <unk> ( in my mind <unk> means completely unnecessary with no benefit , and in my opinion there is still a benefit even when showing on 1080p applications ) .
+&lt; p &gt; However , in any interview , I can now crop in from 50 % ( 4K <unk> down in a 1080p <unk> ) to 80 % and have no <unk> quality loss .
+In a <unk> I can go full 1 : 1 , 100 % crop and though I notice some <unk> , no audience ever does .
+I can zoom to 80 % and do virtual <unk> , <unk> footage ( to a certain degree , obviously depending on shutter angle / speed ) @ @ @ @ @ @ @ @ @ @ resolution stills from the video .
+&lt; p &gt; The GH4 has saved me so much time ( and flexibility ) to do a one camera setup that I can use as a two camera setup .
+I did n &apos;t realize how much of a <unk> that was going to be when I bought the GH4 , but I use the 4K footage this way very very often .
+&lt; p &gt; <unk> question : How do you <unk> 4K to 1080 ?
+Do you just drop your 4k footage onto a 1080 <unk> ?
+Is it like <unk> &quot; something you have to do in Adobe Media <unk> before you edit ?
+Or do you do <unk> on export ?
+&lt; p &gt; My understanding is that <unk> and <unk> 4K to HD are the same thing - achieved either in the edit <unk> and export / share or by using conversion software like <unk> <unk> .
+By the way - for those of you - like me who are waiting for Apple to release an update to <unk> recognize <unk> files .
+I found that a <unk> called <unk> <unk> <unk> <unk> works great .
+With @ @ @ @ @ @ @ @ @ @ the best results - now IMO the GH5 HD files look as good as 4K .
+&lt; p &gt; Panasonic does amazing things for video .
+They actually listen and do n &apos;t <unk> you off .
+I wonder how hard it would be to add a <unk> mode which shoots full RAW stills with highest continuous frame rate and use only electronic shutter ?
+<unk> photo mode is nice , but <unk> could allow a lot slower frame rates , if this way you can get full RAW photos instead <unk> photos .
+People could choose what they need by <unk> between photo quality and speed .
+&lt; p &gt; <unk> please remember to follow up with the &quot; <unk> &quot; release for the <unk> / <unk> / <unk> : - ) In particular , fix the RAW conversion <unk> that highlights and shadows adjust do nothing right now .
+( do n &apos;t really care about the beauty part : - ) ) .
+&lt; p &gt; Indeed , I rather prefer working with a clean and high quality 1080p output than having the burden to <unk> 4K in post .
+<unk> expensive camera , less expensive storage , less @ @ @ @ @ @ @ @ @ @ time <unk> .
+For me no 4K <unk> please ... &lt; p &gt; The <unk> and GH4 were very poor for 1080p as they only used <unk> % of the pixels in the 16 : 9 crop so you got <unk> and <unk> a fair bit .
+The best 1080p was always <unk> from 4k ( plus you could increase the bit depth to 10 bits along the way ) .
+I believe the GH5 uses all the pixels , so should be okay , but Panasonic do n &apos;t have a camera to loan me so I can do the test I want .
+&lt; p &gt; For the past two years I have been shooting ( talking head ) projects with a GH4 in 4K just to eliminate <unk> and <unk> .
+Now with the GH5 I do n &apos;t have to .
+1080p is free from <unk> and <unk> .
+Even <unk> looks really clean and sharp so I no longer need to <unk> huge files , and can hand footage ( 2 card <unk> ! )
+straight to the <unk> &quot; <unk> &quot; are too busy with 4K <unk> AF <unk> discussion to mention this @ @ @ @ @ @ @ @ @ @ about the GH5 HD quality which is a shame because it &apos; s very , very good .
+I &apos; ve shot several hours of HD video on my GH5 in various <unk> and to my eye , it looks almost the same as the 4K files .
+Another thing very few are talking about is how clean <unk> <unk> is in HD .
+<unk> is also now available in 4K which is amazing .
+Now my primes become 2 lenses in one .
+Love this camera .
+&lt; p &gt; I &apos; m close to the &quot; full frame look &quot; with my <unk> <unk> lenses .
+Also , when I shoot a group in low light , there &apos; s a <unk> better chance of getting everyone in focus .
+<unk> and auto focus is so much better than the GH4 .
+EVF is bigger and brighter for manual focus work .
+IBIS with my fast primes - this really is miles ahead of the GH4 .
+@ qwx168862 @ qwx168861 @ qwx168863 @ qwx168860 @ @ <unk> @ <unk> / &lt; h &gt; 2016 Challenge of <unk> winners announced &lt; p &gt; The votes have been <unk> and we have a winner !
+DPR member <unk> &apos; s image of a <unk> <unk> in <unk> , <unk> takes top honors in the 2016 Challenge of <unk> competition .
+The photo is one of almost 1000 <unk> entries .
+See how your votes <unk> the top 25 images , and head to our challenges page if you &apos; re feeling inspired .
+&lt; p &gt; Though I like the <unk> pictures , I feel them to <unk> .
+I know , I do it myself to enhance them .
+But I really miss to see more natural looking in the <unk> winning <unk> <unk> in <unk> <unk> is nice , but looks more like a painting so much it is <unk> .
+&lt; p &gt; The lack of <unk> is due to the nature of challenges themselves .
+&lt; p &gt; I mean , if the challenge is <unk> , then that &apos; s what will win that challenge .
+<unk> !
+&lt; p &gt; I think it would be far better for the <unk> and <unk> and forum user and photographer , if instead @ @ @ @ @ @ @ @ @ @ liked samples from the many types of photography forums where people ask for C &amp; amp ; C and are not in any challenge at all .
+That &apos; s where you are going to find unique quality .
+&lt; p &gt; The challenges were <unk> <unk> <unk> back when DPReview was n &apos;t directly involved and it was just people in some of the forums who did it , instead of all of them .
+The new kind of challenges end up being less about image quality and more about who and how many people you know in the forums that will <unk> up your picture regardless of its visual impact .
+It is more about the <unk> groups and less about photography .
+I &apos; d prefer if DPR just <unk> aside and let us enjoy it the way it was meant to be enjoyed .
+&lt; p &gt; Because of the availability of digital technology , I think there is a battle going on in current photography <unk> between two major schools of <unk> thought : first , the &quot; <unk> &quot; <unk> the &quot; Software <unk> / <unk> <unk> &quot; image schools , and second , the &quot; highly @ @ @ @ @ @ @ @ @ @ .
+So far , I think the &quot; Software <unk> / Art <unk> &quot; and &quot; popular <unk> &quot; images are winning ( at least on <unk> ) .
+Is this a good thing or not ?
+Personally , I &apos; ve found images from various image schools that I find I like , so I think there is room for variety .
+While one may express a preference - I think it is <unk> to say that one form is &quot; better &quot; than another .
+<unk> and <unk> all you want , but <unk> vary because humans do .
+&lt; p &gt; I see nothing wrong with post processing to one &apos; s taste to achieve the visual impact one wants .
+You do n &apos;t think <unk> Adams tried many ways to <unk> and <unk> his photos to achieve the image he desired ?
+Taking a photo on a negative ( film or digital ) is just the first step .
+You can <unk> the &quot; image &quot; in many different directions with the <unk> methods you select .
+&lt; p &gt; <unk> to the winners , some very nice shots in the mix .
+My @ @ @ @ @ @ @ @ @ @ on <unk> place .
+It was the only one that moved me .
+No issues with the rest of the entries of course , taste is subjective .
+&lt; p &gt; The <unk> = <unk> photo is very <unk> processed but that exact same perspective &amp; amp ; 1 person in it has been done to death .
+I have seen thousands of photos with just different processing but same perspective .
+Not original by any means but I love this persons processing non the less .
+&lt; p &gt; Some <unk> work among the <unk> , many of them far superior images , in my opinion , to the winning <unk> <unk> shot .
+The <unk> in the <unk> look really <unk> processed , and most of the photo , for example the small <unk> left <unk> , seems like <unk> HDR processing .
+Not exactly <unk> work .
+. . &lt; p &gt; There are many people who always comment that they are not impressed , either by a set of pictures , a review , a new camera or a new lens .
+They often do n &apos;t have a single picture to show , it &apos; s just @ @ @ @ @ @ @ @ @ @ to <unk> appreciate <unk> and have standing to form an opinion or <unk> a <unk> does n &apos;t take a <unk> to <unk> appreciate ...
+It does n &apos;t take a writer ...
+It does n &apos;t take a <unk> ...
+It does n &apos;t take entering a photo competition ... &lt; p &gt; All music , movies , photography , <unk> , books etc .
+generate opinions of all types .
+I can hate Hey <unk> without writing my own song .
+The only movie I liked this year was The <unk> and I &apos; m not expected to write a <unk> .
+It would be a <unk> world if we all agreed on everything .
+Reading comments on both sides is how a good forum <unk> .
+&lt; p &gt; I find it interesting that so many folks on DPR feel that increasing the <unk> in an image ( if that indeed was done ) is such a bad thing , as if the only <unk> way to present an image is to make it look exactly like it did when the image was taken .
+&lt; p &gt; I &apos; ve always felt that photography was about trying to share @ @ @ @ @ @ @ @ @ @ image was taken , and that whatever the photographer <unk> needs to done in post to help get that feeling across is fine .
+&lt; p &gt; I really like this image and feel it does a good job of <unk> the idea of &quot; the golden hour &quot; .
+&lt; p &gt; And do n &apos;t get me wrong , I enjoy realistic photos as well , but I do n &apos;t think that &apos; s the only way they need to be presented .
+&lt; p &gt; To me it does a good job of showing that if you can afford a <unk> to <unk> , a real long <unk> lens , and do n &apos;t realize when you went a bit too far with Photoshop , and get your inspiration from those <unk> that are supposed to give good employees inspiration while having to spend the year in a <unk> ... You Too can be a contest winning photographer .
+&lt; p &gt; <unk> surprised at the winning shot .
+<unk> to me like the <unk> <unk> was <unk> <unk> to <unk> before <unk> can understand the general public <unk> this sort of thing , but did not expect @ @ @ @ @ @ @ @ @ @ for the <unk> .
+The &apos; <unk> <unk> &apos; was <unk> in <unk> , and it was my <unk> that ( obviously ) so many people do like the shot that I found <unk> , when I shoot in light like this , I pull the <unk> and <unk> down in <unk> .
+I like <unk> images , but often find yellow too dominant ( in digital ) , especially <unk> .
+&lt; p &gt; I &apos; ve often <unk> if the reason for <unk> images , especially on sites like <unk> , is because a cheap monitor was used by the person editing the picture .
+Maybe the winners can tell us if they have a <unk> <unk> monitor ?
+&lt; p &gt; The photographer &apos; s job is not to meet your expectations .
+I suppose you would also object to the work of <unk> Adams , who <unk> the crap out of his <unk> to achieve the emotional impact he associated with the images .
+He would have loved Photoshop !
+&lt; p &gt; I like high resolution pictures combined with high sharpness , that this <unk> obviously has n &apos;t .
+<unk> I <unk> for @ @ @ @ @ @ @ @ @ @ the <unk> <unk> the old <unk> on the <unk> wall .
+&lt; p &gt; Perhaps you could be a bit more specific .
+All but a couple seem pretty &apos; original &apos; to me -- and all well <unk> .
+I looked at your excellent images on your website , and it seems to me that these <unk> every bit as much <unk> .
+&lt; p &gt; Sure , and I do n &apos;t mean that they are n &apos;t beautiful , <unk> , or technically <unk> in any way .
+They are all wonderful photos .
+&lt; p &gt; But , the <unk> of this city in # 1 have been shot almost exactly this same way by numerous people , and have won many <unk> ; # 2 the <unk> <unk> <unk> over the <unk> is n &apos;t in the US <unk> , but has been done to death ; # 3 a person standing in front of that very <unk> was in an ad in <unk> <unk> magazine last month ; # 4 the <unk> <unk> shot has been done many times , but this one IS unique in terms of lighting ; # 5 the tree shot is almost a @ @ @ @ @ @ @ @ @ @ is a near copy of a famous B &amp; amp ; W shot ( will have to search for the reference ) .
+&lt; p &gt; @ <unk> , I supposed I expected something like the <unk> <unk> photo ( # 4 ) - a unique and successful take on a familiar shot .
+<unk> others composition , lighting , etc .
+( like # 1 ) just seems rather <unk> to me .
+&lt; p &gt; I think as photographers on an increasingly <unk> planet , it should be our goal to put our personal and unique take on the world .
+<unk> other peoples unique and excellent photos might win <unk> , but does n &apos;t <unk> me .
+@ qwx168862 @ qwx168861 @ qwx168863 @ qwx168860 @ @ <unk> @ <unk> / &lt; h &gt; <unk> &apos; s of <unk> is NOT an authorized <unk> !
+&lt; p &gt; I bought the <unk> DX <unk> from them via the web , then got an email to call and confirm - which is what the <unk> companies are known to do .
+I thought <unk> , but put in the call , maybe they just needed some order <unk> , etc .
+For note , they were about $ <unk> less ( for new ) than Amazon or B &amp; amp ; <unk> . &lt; p &gt; So it turns out they really only wanted to sell me a third party warranty because I would be getting a lens that carried <unk> Nikon warranty - they are not an authorized <unk> , which surprised me as they have been around for 37 years .
+Any solid company selling that long should jump through the necessary <unk> and get <unk> .
+I never use third parties for <unk> , I have heard way to many <unk> stories .
+And why would I buy a product from one company to immediately turn around and buy a warranty form a second company , that seems ridiculous .
+@ @ @ @ @ @ @ @ @ @ my gear to have full Nikon <unk> in case things go wrong - which they have a few times in the past .
+&lt; p &gt; So I cancelled my order , and will <unk> over the extra $ <unk> <unk> to get one from Amazon .
+By the time I would have added their offered 5 year warranty , I would not have been saving that much anyway .
