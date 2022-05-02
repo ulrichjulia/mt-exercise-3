@@ -91,3 +91,5 @@ Command line arguments:
 |----------:|------------:|-----------------:|------------:|------------:|
 |   190.90|      185.25|           179.50 |      174.03 |      251.63 |
 
+# Visualisation
+![The charts of the training ppls.](https://github.com/ulrichjulia/mt-exercise-3//blob/eb42f95fc3c9e768b1a25124a8bb693eea64498e/results.png)
