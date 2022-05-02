@@ -29,15 +29,14 @@ mv 52521-0.txt $data/grimm/raw/tales.txt
 
 # preprocess slightly
 
-cat $data/grimm/raw/tales.txt | python $base/scripts/preprocess_raw.py > $data/grimm/raw/tales.cleaned.txt
+cat dataset/iWeb/test1/*.txt | python scripts/preprocess_raw.py >> dataset/iWeb/test1_cleaned.txt
 
 # tokenize, fix vocabulary upper bound
 
-cat $data/grimm/raw/tales.cleaned.txt | python $base/scripts/preprocess.py --vocab-size 5000 --tokenize --lang "en" --sent-tokenize > \
-    $data/grimm/raw/tales.preprocessed.txt
+cat dataset/iWeb/test1_cleaned.txt | python scripts/preprocess.py --vocab-size 5000 --tokenize --lang "en" --sent-tokenize > dataset/iWeb/test1_preprocessed.txt
 
 # split into train, valid and test
 
-head -n 440 $data/grimm/raw/tales.preprocessed.txt | tail -n 400 > $data/grimm/valid.txt
-head -n 840 $data/grimm/raw/tales.preprocessed.txt | tail -n 400 > $data/grimm/test.txt
-tail -n 3075 $data/grimm/raw/tales.preprocessed.txt | head -n 2955 > $data/grimm/train.txt
+head -n 440 dataset/iWeb/test1_preprocessed.txt | tail -n 400 > dataset/iWeb/valid.txt
+head -n 840 dataset/iWeb/test1_preprocessed.txt | tail -n 400 > dataset/iWeb/test.txt
+tail -n 3075 dataset/iWeb/test1_preprocessed.txt | head -n 2955 > dataset/iWeb/train.txt
