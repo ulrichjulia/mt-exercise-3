@@ -1,5 +1,6 @@
 # MT Exercise 3: Pytorch RNN Language Models
 
+SIDE NOTE: I unfortunately did not have enough time so comment on the results, having way too much to do at the moment. Below, you will, however, find the tables and charts of the perplexities etc.
 
 [Original repository](https://github.com/emmavdbold/mt-exercise-3) 
 
